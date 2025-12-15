@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url("../img/fundo.png") repeat;
+}
+
+.topo {
+    width: 900px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.container {
+    width: 900px;
+    margin: 8px auto;
+}
+
+.capa img {
+    width: 100%;
+}
+
+.conteudo {
+    padding: 20px 0;
+}
+
+.rodape {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 14px;
+}
